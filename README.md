@@ -1,6 +1,8 @@
 ## Hallo 👋
 
-I like to code in C and C++.
+I like to code in C and C++. I am currently learning intermediate-advanced programming concepts.
+
+I am also very grateful to all GNU/Linux contributors!
 
 <!--
 **utm0st/utm0st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
