@@ -1,5 +1,7 @@
 ## Hallo 👋
 
+I like to code in C and C++.
+
 <!--
 **utm0st/utm0st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
