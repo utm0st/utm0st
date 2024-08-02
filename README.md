@@ -6,20 +6,18 @@ I come from Uruguay and I like to code in C++. I am currently learning intermedi
 
 ### Programming Languages I am Proficient in
 
-- C++
-- SQL
-- PL/SQL
+![C++](./res/icons8-c++-48.png "C++")
+![SQL](./res/icons8-sql-64.png "SQL")
+![PLSQL](./res/icons8-oracle-pl-sql-100.png "PL/SQL")
 
 ### Programming Languages I am Competent in
 
-- C
-- Java
+![C](./res/icons8-c-48.png "C")
+![Java](./res/icons8-java-94.png "Java")
 
 ### Technologies I am proficient at
 
-- Oracle Database
-- Oracle Developer Suite
-- Oracle Pro*C/C++
+![Oracle DB, Oracle Forms & Reports, Oracle Pro*C/C++](./res/icons8-oracle-logo-48.png "Oracle DB, Oracle Forms & Reports, Oracle Pro*C/C++")
 
 ### Technologies I am Learning
 
