@@ -4,22 +4,22 @@ Hallo 👋. I am Luis.
 
 I come from Uruguay (🇺🇾) and I like to code in C++. I am currently learning intermediate-advanced programming concepts.
 
-### Programming Languages I am Proficient in
+### Programming Languages I Am Proficient in
 
 ![C++](./res/icons8-c++-48.png "C++")
 ![SQL](./res/icons8-sql-64.png "SQL")
 ![PLSQL](./res/icons8-oracle-pl-sql-100.png "PL/SQL")
 
-### Programming Languages I am Competent in
+### Programming Languages I Am Competent in
 
 ![C](./res/icons8-c-48.png "C")
 ![Java](./res/icons8-java-94.png "Java")
 
-### Technologies I am proficient in
+### Technologies I Am proficient in
 
 ![Oracle DB, Oracle Forms & Reports, Oracle Pro*C/C++](./res/icons8-oracle-logo-48.png "Oracle DB, Oracle Forms & Reports, Oracle Pro*C/C++")
 
-### Technologies I am Learning
+### Technologies I Am Learning
 
 ![OpenGL](./res/opengl.png "OpenGL")
 
@@ -29,7 +29,7 @@ I come from Uruguay (🇺🇾) and I like to code in C++. I am currently learnin
 ![English](./res/gb.png "English")
 ![Catalan](./res/catalonia.png "Catalan")
 
-### Languages I am Learning
+### Languages I Am Learning
 
 ![German](./res/deutschland.png "German")
 
