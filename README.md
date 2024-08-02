@@ -25,7 +25,13 @@ I come from Uruguay (🇺🇾) and I like to code in C++. I am currently learnin
 
 ### Languages I do Speak/Understand
 
+![Spanish](./res/spain.png "Spanish")
+![English](./res/gb.png "English")
+![Catalan](./res/catalonia.png "Catalan")
+
 ### Languages I am Learning
+
+![German](./res/deutschland.png "German")
 
 <!--
 **utm0st/utm0st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
