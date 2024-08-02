@@ -2,7 +2,7 @@
 
 Hallo 👋. I am Luis.
 
-I come from Uruguay and I like to code in C++. I am currently learning intermediate-advanced programming concepts.
+I come from Uruguay (🇺🇾) and I like to code in C++. I am currently learning intermediate-advanced programming concepts.
 
 ### Programming Languages I am Proficient in
 
@@ -22,6 +22,10 @@ I come from Uruguay and I like to code in C++. I am currently learning intermedi
 ### Technologies I am Learning
 
 ![OpenGL](./res/opengl.png "OpenGL")
+
+### Languages I do Speak/Understand
+
+### Languages I am Learning
 
 <!--
 **utm0st/utm0st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
