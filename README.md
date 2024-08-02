@@ -1,8 +1,29 @@
-## Hallo 👋
+## Short Introduction
 
-I like to code in C and C++. I am currently learning intermediate-advanced programming concepts.
+Hallo 👋. I am Luis.
 
-I am also very grateful to all GNU/Linux contributors!
+I come from Uruguay and I like to code in C++. I am currently learning intermediate-advanced programming concepts.
+
+### Programming Languages I am Proficient in
+
+- C++
+- SQL
+- PL/SQL
+
+### Programming Languages I am Competent in
+
+- C
+- Java
+
+### Technologies I am proficient at
+
+- Oracle Database
+- Oracle Developer Suite
+- Oracle Pro*C/C++
+
+### Technologies I am Learning
+
+- OpenGL
 
 <!--
 **utm0st/utm0st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
