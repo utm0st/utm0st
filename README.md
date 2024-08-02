@@ -21,7 +21,7 @@ I come from Uruguay and I like to code in C++. I am currently learning intermedi
 
 ### Technologies I am Learning
 
-- OpenGL
+![OpenGL](./res/opengl.png "OpenGL")
 
 <!--
 **utm0st/utm0st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
