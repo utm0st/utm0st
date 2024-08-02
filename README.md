@@ -15,7 +15,7 @@ I come from Uruguay (🇺🇾) and I like to code in C++. I am currently learnin
 ![C](./res/icons8-c-48.png "C")
 ![Java](./res/icons8-java-94.png "Java")
 
-### Technologies I am proficient at
+### Technologies I am proficient in
 
 ![Oracle DB, Oracle Forms & Reports, Oracle Pro*C/C++](./res/icons8-oracle-logo-48.png "Oracle DB, Oracle Forms & Reports, Oracle Pro*C/C++")
 
